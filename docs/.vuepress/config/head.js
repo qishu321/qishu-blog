@@ -12,7 +12,7 @@ module.exports = [
     "meta",
     {
       name: "keywords",
-      content: "二丫讲梵,golang,vue,go-web,go-admin,go-ldap-admin",
+      content: "七书",
     },
   ],
   // ['meta', { name: 'baidu-site-verification', content: 'code-LTKHwOecxI' }], // 百度统计的站长验证
