@@ -31,7 +31,7 @@ module.exports = [
       autoCreateIssue: true,
       clientId: "Ov23liB9RyL4QCBul1Ps",
       clientSecret: "ca0b9dacfed88f87f5f5de91bcf42a26dfc2fef2",
-      owner: "qishu",
+      owner: "qishu321",
       repo: "qishu-blog",
     },
   ],
