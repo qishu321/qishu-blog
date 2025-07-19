@@ -2,10 +2,10 @@
 pageComponent:
   name: Catalogue
   data:
-    key: 03.more
-title: 更多
+    key: about
+title: about
 date: 2022-07-20 11:05:54
-permalink: /more/
+permalink: /about/
 sidebar: false
 article: false
 comment: false

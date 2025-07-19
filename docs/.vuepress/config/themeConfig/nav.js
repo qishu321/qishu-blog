@@ -5,8 +5,8 @@ module.exports = [
     text: '运维',
     link: '/devops/',
     items: [
-      { text: '监控相关', link: '/devops/monitoring/' },
-      { text: '容器相关', link: '/devops/docker/' },
+      { text: '监控相关', link: '/01.devops/monitoring/' },
+      { text: '容器相关', link: '/01.devops/docker/' },
       // 如需更多二级目录继续添加
     ]
   },
@@ -14,8 +14,8 @@ module.exports = [
     text: '编程',
     link: '/backend/',
     items: [
-      { text: 'go基础知识', link: '/backend/go-learn/' },
-      { text: 'go每日一库', link: '/backend/go-daily/' },
+      { text: 'go基础知识', link: '/02.backend/go-learn/' },
+      { text: 'go每日一库', link: '/02.backend/go-daily/' },
       // 如需更多二级目录继续添加
     ]
   },
