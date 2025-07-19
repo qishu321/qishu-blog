@@ -5,8 +5,8 @@ module.exports = [
     text: '运维',
     link: '/devops/',
     items: [
-      { text: '监控相关', link: '/01.devops/monitoring/' },
-      { text: '容器相关', link: '/01.devops/docker/' },
+      { text: '监控相关', link: '/devops/monitoring/' },
+      { text: '容器相关', link: '/devops/docker/' },
       // 如需更多二级目录继续添加
     ]
   },
