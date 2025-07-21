@@ -14,8 +14,8 @@ module.exports = [
     text: '编程',
     link: '/backend/',
     items: [
-      { text: 'go每日一库', link: '/pages/c232253e/' }, // go-daily
-      { text: 'go基础知识', link: '/pages/9a7ee40fc232253e/' }, //go-learn
+      { text: 'go每周一库', link: '/pages/c232253e/' }, // go-daily
+      { text: 'go基础知识', link: '/pages/358e6d/' }, //go-learn
       // 如需更多二级目录继续添加
     ]
   },
